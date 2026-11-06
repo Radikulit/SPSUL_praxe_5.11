@@ -18,7 +18,7 @@ kategorie – zařazení jídla do kategorie: polevka, hlavni_jidlo, dezert, nap
 
 alergeny – pole číselných kódů alergenů (1–14) obsažených v pokrmu, např. [1, 3, 7]. Pokud pokrm žádné alergeny neobsahuje nebo nejsou uvedeny, vrací se prázdné pole [].
 
-##Pravidla porovnávání
+## Pravidla porovnávání
 
 nazev_jidla: nerozlišuje se velikost písmen a přebytečné mezery na začátku/konci se ignorují ("svíčková" = "Svíčková" = " Svíčková ").
 
