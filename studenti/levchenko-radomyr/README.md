@@ -10,6 +10,7 @@ Nástroj slouží ke zpracování a strukturovanému zobrazení denního nabídk
   "kategorie": "polevka | hlavni_jidlo | dezert | napoj | jine",
   "alergeny": [ "number" ]
 }
+```json
 
 nazev_jidla – název pokrmu nebo nápoje, např. "Svíčková na smetaně", "Čočková polévka". null, pokud text název neuvádí.
 
